@@ -1,0 +1,28 @@
+
+body{
+    background-image: url("../img/backi.jpg");
+    background-repeat: repeat;
+  
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
+}
+
+.back{
+    
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+}
+.front{
+    margin: 0;
+    margin-right: -60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
